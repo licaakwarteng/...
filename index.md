@@ -25,6 +25,8 @@ Data Analytics Certified. Open to roles where ownership, analytical depth, and s
 
 
 
+
+
 ## Featured Projects: 
 1. ### Customer Retention & Profitability Analysis
    Helping CrishBet Betting Company understand their users’ behavior and identify opportunities to improve retention and profitability.
@@ -136,6 +138,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
