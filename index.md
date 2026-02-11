@@ -17,9 +17,12 @@ layout: default
 
 
 ### About:
-I'm detail-oriented, adaptable and skilled at converting raw operational data into insights used by stakeholders to improve efficiency, 
-reporting, and strategic clarity. 
-You can count on me to support your customer operations, administrative processes, and financial decision-making through well-structured analytics solutions.
+Analytics Specialist driving data-informed decision support and business intelligence.
+
+I transform raw and fragmented datasets into structured insights that improve operational performance, product decisions, and executive visibility. Experienced in SQL, Power BI, and data transformation across operations and consulting environments. Specialty includes automations and python scripting for data science and analytics.
+
+Data Analytics Certified. Open to roles where ownership, analytical depth, and strategic thinking are valued.
+
 
 
 ## Featured Projects: 
@@ -133,6 +136,7 @@ This is a list of all other projects I worked on within the timeframe of August 
 3. Data Analytics - Product Sales
 4. Analytics - SAT Scores
    
+
 
 
 
